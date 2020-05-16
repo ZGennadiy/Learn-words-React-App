@@ -7,7 +7,6 @@ class Card extends Component {
     };
 
     handleCardClick = () => {
-        console.log(this.state.done);
         this.setState(this.state.done ? { done: false,} : { done: true,});
     };
 
