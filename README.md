@@ -1,5 +1,9 @@
 ## Learn words - React App
 
+[Live Demo](https://learnwords.zgennadiy.com/)
+
+<img src="./learn.gif" alt="Learn Words Gif" width="500"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
